@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: yacine.dal
+        username: projetvirtualisation
         password: Barcelone95100
 
         server-dir : public_html/
